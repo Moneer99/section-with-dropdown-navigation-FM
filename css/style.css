@@ -110,6 +110,13 @@
   border-radius: 15px;
   background: var(--black);
   color: var(--white);
+  outline: 0;
+}
+.main-content__client {
+  padding-left: 70px;
+}
+.main-content__client img {
+  margin: 10px;
 }
 .main-content__right {
   width: 40%;
